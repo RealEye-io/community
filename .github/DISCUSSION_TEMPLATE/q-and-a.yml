@@ -1,0 +1,22 @@
+title: "[Q&A] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome! Ask your question below. Please check the [FAQ](../FAQ.md) and [existing discussions](../discussions/categories/q-a) first to see if it has already been answered.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What would you like to know?
+      placeholder: Describe your question in as much detail as possible...
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Any additional context that might help — e.g. study type, browser, account plan.

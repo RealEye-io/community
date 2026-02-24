@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Q&A Discussion
+    url: https://github.com/RealEye-io/community/discussions/categories/q-a
+    about: Ask the community or the RealEye.io team a question
+  - name: Ideas & Feature Requests Discussion
+    url: https://github.com/RealEye-io/community/discussions/categories/ideas
+    about: Share a feature idea or vote on existing ones
+  - name: RealEye.io Support
+    url: https://www.realeye.io
+    about: Contact the RealEye.io support team directly

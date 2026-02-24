@@ -1,0 +1,36 @@
+title: "[Idea] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share your idea for improving the RealEye.io platform! Before posting, check [existing ideas](../discussions/categories/ideas) to see if someone has already suggested something similar — if so, upvote and comment there instead.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does your idea solve?
+      description: Describe the current limitation or pain point.
+      placeholder: "Currently it's difficult to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: Describe your idea
+      description: What would you like to see in the platform?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or workarounds
+      description: Have you found any workarounds? What are their limitations?
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Mockups, examples, or links that help illustrate the idea.
